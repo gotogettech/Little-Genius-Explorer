@@ -1,0 +1,1 @@
+document.getElementById("content").innerText = "Colors content goes here.";

@@ -1,0 +1,1 @@
+document.getElementById("content").innerText = "Game content goes here.";
